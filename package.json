@@ -1,0 +1,25 @@
+{
+  "name": "fortel-eight-words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airicyu/fortel-eight-words.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airicyu/fortel-eight-words/issues"
+  },
+  "homepage": "https://github.com/airicyu/fortel-eight-words#readme",
+  "dependencies": {
+    "fortel-codex": "^1.0.0",
+    "fortel-solar-term": "^1.0.0",
+    "moment": "^2.24.0"
+  }
+}

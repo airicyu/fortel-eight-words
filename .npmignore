@@ -1,0 +1,7 @@
+.git
+.nyc_output
+.vscode
+.codeclimate.yml
+.travis.yml
+test
+coverage
